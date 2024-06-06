@@ -31,4 +31,6 @@
 ## Fontes Consultadas 🔗
 - [Vídeo Tutorial](https://www.youtube.com/watch?v=HSssE1PRQcA)
  
-## Autores 👥https://github.com/mendesdafilla/To-Do-List
+## Autores 👥
+- [dafilla mendes](https://github.com/mendesdafilla/To-Do-List)
+- [Naillim Novaski](https://github.com/naillimnovaski?tab=repositories)
